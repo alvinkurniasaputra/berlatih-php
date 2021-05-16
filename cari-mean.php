@@ -17,5 +17,6 @@ echo cariMean([6,5,4,7,3]);
 echo cariMean([1,3,3]);
 echo cariMean([7,7,7,7,7]);
 echo cariMean([5,7,7,4,3]);
+echo cariMean([1,1,7,4,1]);
 
 ?>
