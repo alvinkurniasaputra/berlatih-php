@@ -15,5 +15,7 @@ function papan_catur($num){
 papan_catur(4);
 papan_catur(8);
 papan_catur(5);
+papan_catur(6);
+papan_catur(7);
 
 ?>
