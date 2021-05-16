@@ -30,6 +30,7 @@ palindrome(8);
 palindrome(10);
 palindrome(117);
 palindrome(175);
+palindrome(190);
 palindrome(1000);
 
 ?>
